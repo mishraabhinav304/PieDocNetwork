@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 This is the text in test01.txt file. - branch 01.
-=======
 This is the text in test01.txt file. change on conflict branch 02.
->>>>>>> 2b8823a (modified the test01.text and added conflict-branch-02 content)
 Adding another text in test01.txt file.
