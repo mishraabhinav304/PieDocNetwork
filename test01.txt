@@ -4,3 +4,4 @@ Adding another text in test01.txt file.
 Adding line no 3 in test01.txt file.
 Adding new line on 02 Jan 2023
 This is to test the email notification functionality of github.testing git stash 
+This is to test the email notification functionality of github.Added a new line to test git diff commandThis is to test the git commit -am command
