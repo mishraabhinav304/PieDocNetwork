@@ -3,4 +3,4 @@ This is the text in test01.txt file. change on conflict branch 02.
 Adding another text in test01.txt file.
 Adding line no 3 in test01.txt file.
 Adding new line on 02 Jan 2023
-This is to test the email notification functionality of github.
+This is to test the email notification functionality of github.Added a new line to test git diff command
